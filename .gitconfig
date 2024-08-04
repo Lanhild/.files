@@ -1,0 +1,11 @@
+[user]
+	email = loanj@naver.com
+	name = Lanhild
+	signingkey = E1D2D61983A335E5
+[init]
+	defaultBranch = main
+[alias]
+	c = commit -S -a
+	a = add .
+[core]
+	editor = flatpak run re.sonny.Commit
